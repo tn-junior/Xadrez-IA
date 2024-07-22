@@ -1,6 +1,6 @@
 # LLM Chess Arena
 
-<img src="./images/video.gif"/>
+
 
 Este é o código fonte do projeto apresentado neste vídeo:
 
